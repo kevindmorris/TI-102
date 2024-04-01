@@ -1,0 +1,14 @@
+@import "normalize.css";
+@import "@blueprintjs/core/lib/css/blueprint.css";
+
+body {
+  margin: 0;
+}
+
+#root {
+  min-height: 100vh;
+  padding-left: 10%;
+  padding-right: 10%;
+  display: flex;
+  flex-direction: column;
+}
